@@ -1,0 +1,322 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding: 8px;
+    margin-bottom: 0px;
+}
+
+#links {
+    text-align: center;
+    font-size: large;
+    padding: 8px;
+    background-color: gray;
+}
+
+#top a {
+    color: white;
+    margin-left: 32px;
+    margin-right: 32px;
+    background-color: gray;
+    padding: 8px;
+}
+
+#logoBild {
+    text-align: center;
+    padding-top: 32px;
+}
+
+.slogan {
+    text-align: center;
+    margin-top: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+#top {
+    background-color: white;
+}
+
+#top img {
+    text-align: center;
+}
+
+#main {
+    background-color: white;
+    
+    margin-top: 16px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#links :hover {
+    color: blue;
+}
+
+#foot {
+    text-align: center;
+    margin-top: 16px;
+    background-color: #4F576C;
+    color: white;
+    padding:8px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #bbc2d2;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+#Über_uns {
+    width: 850px;
+    
+    margin: auto;
+}
+#werbung {
+    width: 850px;
+    margin: auto;
+    font-size: larger;
+    font-family: fantasy;
+}
+
+#werbung h2 {
+    text-align: center;
+}
+
+#Produktinfo {
+    width: 850px;
+    margin: auto;
+}
+
+#Shop {
+    margin: auto;
+    width: 850px;
+}
+#line1 {
+    width: 1000px;
+    align-self: center;
+}
+
+#Line2 {
+    width: 1000px;
+    align-self: center;
+}
+
+#line3 {
+    width: 1000px;
+    align-self: center;
+}
+
+.Produkt1 a {
+    color: white;
+    text-align: center;
+    margin-left: 8px;
+}
+
+.Produkt1 a:hover {
+    color: blue;
+}
+
+.Produkt2 a:hover {
+    color: blue;
+}
+
+#Produkt2b a:hover{
+    color: blue;
+}
+
+.Produkt3 a:hover {
+    color: blue;
+}
+
+#Produkt3m a:hover {
+    color: blue;
+}
+
+.Produkt4 a:hover {
+    color: blue;
+}
+
+.Produkt2 a {
+    color: white;
+    text-align: center;
+    margin-left: 8px;
+}
+
+.Produkt3 a {
+    color: white;
+    text-align: center;
+    margin-left: 8px;
+}
+
+.Produkt4 a {
+    color: white;
+    text-align: center;
+    margin-left: 8px;
+}
+
+.Produkt1 {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    margin-right: 2px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+}
+
+.P1Preis {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.P1Beschreibung {
+    margin-bottom: 8px;
+    text-align: center;
+
+}
+
+.Produkt1 img {
+    width: 75%;
+    height: 150px;
+    margin-left: 20px;
+}
+
+.Produkt2 {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    margin-right: 2px;
+    width: 200px;
+    height: 240px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.P2Preis {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.P2Beschreibung {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.Produkt2 img {
+    width: 75%;
+    margin-left: 22px;
+}
+
+.Produkt3 {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+}
+.P3Beschreibung {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.P3Preis {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.Produkt3 img {
+    width: 75%;
+    margin-left: 22px;
+}
+
+.Produkt4 {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+}
+
+.P4Beschreibung {
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+#Produkt2b {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+}
+
+#Produkt2b img {
+    height: 150px;
+    margin-left: 27px;
+}
+
+#Produkt2b a {
+    color: white;
+}
+
+#Produkt3m {
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    background-color: #797c82;
+    margin-bottom: 16px;
+    width: 200px;
+    height: 240px;
+    display: inline-block;
+}
+
+#Produkt3m a {
+    color: white;
+}
+
+#Produkt3m img {
+    height: 150px;
+    width: 170px;
+    margin-left: 12px;
+}
+
+.P4Preis {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.Produkt4 img {
+    width: 75%;
+    height: 150px;
+    margin-left: 22px;
+}
